@@ -152,15 +152,15 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               <ul className="space-y-3 text-sm">
                 <li className="flex items-start gap-3">
                   <MapPin className="h-5 w-5 text-emerald-500 shrink-0" />
-                  <span>123 Nature Avenue, Eco City,<br />Karnataka, India 560001</span>
+                  <span>Redknox Estates Pvt Ltd.<br />Pune, India</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-emerald-500 shrink-0" />
-                  <span>+91 1234567890</span>
+                  <span>+971 557000545</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-emerald-500 shrink-0" />
-                  <span>hello@terranova.com</span>
+                  <span>sujitsin@gmail.com</span>
                 </li>
               </ul>
             </div>
