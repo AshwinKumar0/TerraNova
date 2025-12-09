@@ -21,7 +21,7 @@ const Contact: React.FC = () => {
                  </div>
                  <div>
                    <h3 className="font-bold text-stone-900">Head Office</h3>
-                   <p className="text-stone-600">Redknox Estates Pvt Ltd.<br/><br/>Pune, India</p>
+                   <p className="text-stone-600">Redknox Estates Pvt Ltd.<br/>Pune, India</p>
                  </div>
                </div>
 
