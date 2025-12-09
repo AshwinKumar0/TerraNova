@@ -88,7 +88,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
       <section className="bg-stone-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl font-bold text-emerald-950 mb-4">Why Choose TerraNova?</h2>
+            <h2 className="text-3xl font-bold text-emerald-950 mb-4">Why Choose RedKnox?</h2>
             <p className="text-stone-600">We go beyond selling land. We curate lifestyles embedded in nature, ensuring sustainability and legal transparency.</p>
           </div>
 

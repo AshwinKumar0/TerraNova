@@ -1,4 +1,4 @@
-# TerraNova Estates - Real Estate Platform
+# RedKnox Estates - Real Estate Platform
 
 A modern, production-ready real estate property listing platform built with React, TypeScript, and Vite. Features responsive design with Tailwind CSS, client-side routing via React Router v6, and a protected admin dashboard.
 

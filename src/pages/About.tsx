@@ -23,7 +23,7 @@ const About: React.FC = () => {
            <div className="space-y-4">
              <h2 className="text-3xl font-bold text-emerald-950">Who We Are</h2>
              <p className="text-stone-600 text-lg leading-relaxed">
-               Founded in 2015, TerraNova Estates began with a simple vision: to make owning a piece of nature accessible, safe, and sustainable. We realized that city dwellers yearned for a sanctuary, but the process of buying rural land was fraught with legal complexities and lack of infrastructure.
+               Founded in 2015, RedKnox Estates began with a simple vision: to make owning a piece of nature accessible, safe, and sustainable. We realized that city dwellers yearned for a sanctuary, but the process of buying rural land was fraught with legal complexities and lack of infrastructure.
              </p>
              <p className="text-stone-600 text-lg leading-relaxed">
                Today, we are the leading developer of managed farmland communities and luxury countryside villas. We don't just sell land; we build ecosystems where you can grow your own food, breathe clean air, and leave a legacy for future generations.

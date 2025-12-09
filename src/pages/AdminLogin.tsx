@@ -34,7 +34,7 @@ const AdminLogin: React.FC<AdminLoginProps> = ({ onLoginSuccess }) => {
           <div className="bg-emerald-800 p-2 rounded-lg">
             <TreePine className="h-6 w-6 text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-emerald-900">TerraNova</h1>
+          <h1 className="text-2xl font-bold text-emerald-900">RedKnox</h1>
         </div>
         
         <h2 className="text-2xl font-bold text-center text-emerald-900 mb-6">Admin Portal</h2>

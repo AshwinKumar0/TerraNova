@@ -28,7 +28,7 @@ describe('App Routing', () => {
 
   test('renders footer', () => {
     renderWithRouter(<App />);
-    expect(screen.getByText(/TerraNova Estates/)).toBeInTheDocument();
+    expect(screen.getByText(/RedKnox Estates/)).toBeInTheDocument();
   });
 
   test('renders project cards on home', () => {

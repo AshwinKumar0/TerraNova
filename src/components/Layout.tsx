@@ -128,7 +128,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                  <div className="bg-white/10 p-2 rounded-lg">
                     <TreePine className="h-6 w-6 text-white" />
                  </div>
-                 <span className="text-xl font-bold text-white">TerraNova</span>
+                 <span className="text-xl font-bold text-white">RedKnox</span>
               </div>
               <p className="text-sm leading-relaxed text-stone-400">
                 Curating premium countryside living experiences. We connect you with nature without compromising on luxury.
@@ -177,7 +177,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
 
           <div className="border-t border-emerald-900 mt-12 pt-8 text-center text-xs text-stone-500">
-            © {new Date().getFullYear()} TerraNova Estates. All rights reserved.
+            © {new Date().getFullYear()} RedKnox Estates. All rights reserved.
           </div>
         </div>
       </footer>
