@@ -31,7 +31,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <TreePine className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-emerald-900 tracking-tight">TerraNova</h1>
+                <h1 className="text-xl font-bold text-emerald-900 tracking-tight">RedKnox</h1>
                 <p className="text-xs text-stone-500 tracking-widest uppercase">Estates</p>
               </div>
             </Link>
