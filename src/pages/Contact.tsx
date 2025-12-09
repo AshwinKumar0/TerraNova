@@ -21,7 +21,7 @@ const Contact: React.FC = () => {
                  </div>
                  <div>
                    <h3 className="font-bold text-stone-900">Head Office</h3>
-                   <p className="text-stone-600">TerraNova Estates Pvt Ltd.<br/>123 Nature Avenue, Eco City<br/>Karnataka, India 560001</p>
+                   <p className="text-stone-600">Redknox Estates Pvt Ltd.<br/><br/>Pune, India</p>
                  </div>
                </div>
 
@@ -31,8 +31,7 @@ const Contact: React.FC = () => {
                  </div>
                  <div>
                    <h3 className="font-bold text-stone-900">Phone</h3>
-                   <p className="text-stone-600">+91 1234567890 (Sales)</p>
-                   <p className="text-stone-600">+91 1234567890 (Support)</p>
+                   <p className="text-stone-600">+971 5570000545</p>
                  </div>
                </div>
 
@@ -42,8 +41,8 @@ const Contact: React.FC = () => {
                  </div>
                  <div>
                    <h3 className="font-bold text-stone-900">Email</h3>
-                   <p className="text-stone-600">sales@terranova.com</p>
-                   <p className="text-stone-600">support@terranova.com</p>
+                   <p className="text-stone-600">sujitsin@gmail.com</p>
+                   <p className="text-stone-600">support@redknox.com</p>
                  </div>
                </div>
 

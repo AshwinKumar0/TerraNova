@@ -3,7 +3,7 @@ import { Project } from '../types';
 export const INITIAL_PROJECTS: Project[] = [
   {
     id: "konkan-project-1",
-    title: "Integrated Development - Konkan Region",
+    title: "Konkan Region",
     slug: "konkan-integrated-development",
     type: "plot",
     price: 1000000,
